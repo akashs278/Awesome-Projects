@@ -6,13 +6,14 @@ Note: These projects are only suggestions. You are free to create your own proje
 Table Of content
 
 ## Types of Projects ✅
-[1. JAVA](#Java-Projects) <br>
-[2. React](#React-projects) <br>
-[3. Full stack](#Full-Stack-Projects) <br>
-[4. Data Science](#Data-Science-Projects) <br>
-[5. C++](#C++-Projects ) <br>
-[6. Machine Learning](#Machine-Learning-Projects) <br>
-[7. Springboot Advanced Projects](#Springboot-Advanced-Projects)
+
+[1. JAVA](#java-projects) <br>
+[2. React](#react-projects) <br>
+[3. Full Stack](#full-stack-projects) <br>
+[4. Data Science](#data-science-projects) <br>
+[5. C++](#c-projects) <br>
+[6. Machine Learning](#machine-learning-projects) <br>
+[7. Springboot Advanced Projects](#springboot-advanced-projects)
 
 <hr>
 
