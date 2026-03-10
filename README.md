@@ -5,14 +5,16 @@ This repo contains a variety of projects, each bundled with its source code. Use
 Note: These projects are only suggestions. You are free to create your own projects for practical knowledge. The source code is provided solely for understanding. If you are using the source code, it is highly recommended to go through it and understand the concepts.
 Table Of content
 
+
 ## Types of Projects ✅
-[1. JAVA](#Java-Projects) <br>
-[2. React](#React-projects) <br>
-[3. Full stack](#Full-Stack-Projects) <br>
-[4. Data Science](#Data-Science-Projects) <br>
-[5. C++](#C++-Projects ) <br>
-[6. Machine Learning](#Machine-Learning-Projects) <br>
-[7. Springboot Advanced Projects](#Springboot-Advanced-Projects)
+
+1. [JAVA](#java-projects)
+2. [React](#react-projects)
+3. [Full Stack](#full-stack-projects)
+4. [Data Science](#data-science-projects)
+5. [C++](#c-projects)
+6. [Machine Learning](#machine-learning-projects)
+7. [Springboot Advanced Projects](#springboot-advanced-projects)
 
 <hr>
 
